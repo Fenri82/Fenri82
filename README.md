@@ -19,13 +19,13 @@ I am a technically focused individual with experience in infrastructure engineer
 - Documentation using Docmost
 - Secure access using Wireguard, Tailscale and Cloudlfare Zero Trust, WAF
 - DNS via TLS 1.2+ only
-- VPN 24/7 with killswitch
+- VPN 24/7 with killswitch and failover
 - Grafana dashboards for monitoring
 - HomeAssistant OS in VM
 - Cron jobs for bash script backups
-- Sutikata for active threat detection and alerts
+- Surikata for active threat detection and alerts
 - Leaks detection such as DNS, WebRTC
-- DNS queryes auditing and strict policy against google and other spyware
+- DNS queryes auditing and strict policy against google services and other spyware
 
 ## Philosophy
 
