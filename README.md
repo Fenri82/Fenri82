@@ -4,7 +4,7 @@ I am a technically focused individual with experience in infrastructure engineer
 
 ## Areas of Focus
 
-- Infrastructure resilience using Proxmox, LXC, Docker, and ZFS
+- Infrastructure resilience using Proxmox, LXC, Docker, Podman (QUADLETS) and LXD
 - Redundant access pipelines utilizing pfSense, WireGuard, and subnet routing
 - Documentation frameworks inspired by S1000D principles for modular, traceable systems
 - Custom control interfaces in React and Go for orchestration and observability
