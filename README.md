@@ -31,7 +31,8 @@ Infrastructure should be understandable, maintainable, and private by default. I
 Privacy and clarity aren’t optional — they are architectural pillars.
 
 ## Why Most of My Code Is Not on GitHub
-GitHub is owned by Microsoft, and due to privacy concerns — specifically code analysis, training models on public repositories, and ecosystem‑wide telemetry — only a very small portion of my work is hosted here. My private repositories live on self‑hosted infrastructure where I retain full control over access, metadata, and code provenance.
+I avoid hosting code on platforms operated by non‑trustworthy third‑party providers with unclear data usage, analysis, and LLM training practices.  
+All critical development therefore lives on my own self‑hosted infrastructure. I may upload some general ideas in the future, depending on how GitHub and its ownership evolve in 2026 and beyond.
 
 ---
 
