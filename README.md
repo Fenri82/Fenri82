@@ -14,18 +14,20 @@ I am a technically focused individual with experience in infrastructure engineer
 ## Current Projects
 
 - Proxmox VE with mixture of LXC, Docker and VMs
-- pfSense in VM as primary interface for network segmentation and trafic analysis
+- pfSense/opensense in VM as primary interface for network segmentation and trafic analysis
 - Matrix server (Synapse)
 - Documentation using Docmost
-- Secure access using Wireguard, Tailscale and Cloudlfare Zero Trust, WAF
+- Secure access using Wireguard, Pangolin and Cloudlfare Zero Trust, WAF
 - DNS via TLS 1.2+ only
 - VPN 24/7 with killswitch and failover
 - Grafana dashboards for monitoring
 - HomeAssistant OS in VM
 - Cron jobs for bash script backups
-- Surikata for active threat detection and alerts
+- Suricata for active threat detection and alerts
 - Leaks detection such as DNS, WebRTC
 - DNS queryes auditing and strict policy against google services and other spyware
+- DNS via Unbound and Pihole on lo in one package, metrics export to Grafana
+- safe proxy using Caddy combined with crowdsec and firewall bouncer, metrics export to Grafana
 
 ## Philosophy
 
